@@ -1,2 +1,2 @@
 # OpenJudge
-My OpenJudge code(C/C++, Java, Python)
+My OpenJudge code(C, C++, Java, Python)
